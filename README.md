@@ -19,3 +19,5 @@ This is a simple and elegant Python-based Windows application that continuously 
 
 8.8.8.8 : 23 ms ✅
 4.2.2.4 : timeout ❌
+
+<img width="319" height="273" alt="image" src="https://github.com/user-attachments/assets/d09b9ac4-9887-4b15-b7c2-8a2a88c87cd1" />
