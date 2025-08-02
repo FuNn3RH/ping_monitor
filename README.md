@@ -17,3 +17,5 @@ This is a simple and elegant Python-based Windows application that continuously 
 
 ## 🖥️ Sample Output
 
+8.8.8.8 : 23 ms ✅
+4.2.2.4 : timeout ❌
